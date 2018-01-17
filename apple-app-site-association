@@ -5,11 +5,7 @@
        "details": [
            {
                "appID": "mx.com.liverpool.appcliente",
-               "paths": [  "/tienda/home.jsp",
-                           "/tienda/m/home.jsp",
-                           "/tienda/users/register.jsp",
-                           "/tienda/giftregistry/giftRegistry.jsp?eventNo=*",
-                           "NOT /tienda/users/credit/creditLandingPage.jsp?_requestid=76086"
+               "paths": [  "*"                       
                          ]
            }
        ]
