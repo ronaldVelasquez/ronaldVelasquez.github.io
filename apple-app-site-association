@@ -1,13 +1,19 @@
-
 {
-   "applinks": {
-       "apps": [],
-       "details": [
-           {
-               "appID": "95GB72XJX7.mx.com.liverpool.appcliente",
-               "paths": [  "*"                       
-                         ]
-           }
-       ]
+"applinks": {
+ "apps": [],
+  "details": {
+   "95GB72XJX7.mx.com.liverpool.appcliente":{
+     "paths": [            "/tienda/home.jsp", 
+                          "/tienda/users/register.jsp",
+                           "/tienda/m/home.jsp",
+                           "/tienda/m/users/register.jsp",
+                           "*"                 
+               ]
+   }
+ }
+},
+"webcredentials": {
+       "apps": [ "95GB72XJX7.mx.com.liverpool.appcliente"
+                 ]
    }
 }
